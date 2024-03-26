@@ -1,4 +1,0 @@
-# webDevAssignment
-Week one assignment
-
-
